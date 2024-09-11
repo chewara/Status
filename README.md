@@ -48,7 +48,7 @@ python3 status.py
 git clone https://github.com/dani3l0/Status && cd Status
 
 # Build & run app
-docker-compose up -d
+docker compose up -d
 ```
 
 App should be available on [localhost:9090](http://localhost:9090).
